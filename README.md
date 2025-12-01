@@ -6,11 +6,11 @@ Proyecto frontend de una tienda de camisetas. Incluye catálogo de camisetas, de
 
 ## Vista previa
 
-![alt text](imgs_readme/image_index.png)
+![index.html](imgs_readme/image_index.png)
 
-![alt text](imgs_readme/image_nosotros.png)
+![nosotros.html](imgs_readme/image_nosotros.png)
 
-![alt text](imgs_readme/image_producto.png)
+![producto.html](imgs_readme/image_producto.png)
 
 ## Tecnologías
 
